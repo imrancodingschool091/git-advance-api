@@ -1,0 +1,182 @@
+[
+  {
+    "name": "iPhone 14",
+    "category": "Electronics",
+    "price": 79999,
+    "details": "128GB, A15 Bionic, Dual Camera"
+  },
+  {
+    "name": "Samsung Galaxy S23",
+    "category": "Electronics",
+    "price": 74999,
+    "details": "256GB, Snapdragon 8 Gen 2, AMOLED Display"
+  },
+  {
+    "name": "Sony WH-1000XM5 Headphones",
+    "category": "Electronics",
+    "price": 29999,
+    "details": "Noise Cancelling, Wireless Bluetooth"
+  },
+  {
+    "name": "Men's Leather Jacket",
+    "category": "Fashion",
+    "price": 4999,
+    "details": "Genuine leather, slim fit, black"
+  },
+  {
+    "name": "Women's Ethnic Kurti",
+    "category": "Fashion",
+    "price": 1299,
+    "details": "Cotton, floral print, 3/4 sleeves"
+  },
+  {
+    "name": "Unisex Sports Shoes",
+    "category": "Fashion",
+    "price": 2499,
+    "details": "Lightweight, breathable, running shoes"
+  },
+  {
+    "name": "Organic Basmati Rice 5kg",
+    "category": "Grocery",
+    "price": 799,
+    "details": "Premium aged long grain rice"
+  },
+  {
+    "name": "Whole Wheat Flour 10kg",
+    "category": "Grocery",
+    "price": 499,
+    "details": "100% chakki ground wheat atta"
+  },
+  {
+    "name": "Cold Pressed Groundnut Oil 1L",
+    "category": "Grocery",
+    "price": 199,
+    "details": "Pure groundnut oil for cooking"
+  },
+  {
+    "name": "Atomic Habits",
+    "category": "Books",
+    "price": 449,
+    "details": "James Clear, habit-building strategies"
+  },
+  {
+    "name": "The Alchemist",
+    "category": "Books",
+    "price": 299,
+    "details": "Paulo Coelho, motivational novel"
+  },
+  {
+    "name": "Rich Dad Poor Dad",
+    "category": "Books",
+    "price": 399,
+    "details": "Robert Kiyosaki, financial literacy"
+  },
+  {
+    "name": "Wooden Study Table",
+    "category": "Furniture",
+    "price": 3499,
+    "details": "Engineered wood, 3 drawers"
+  },
+  {
+    "name": "Ergonomic Office Chair",
+    "category": "Furniture",
+    "price": 5999,
+    "details": "Mesh back, lumbar support"
+  },
+  {
+    "name": "Queen Size Bed with Storage",
+    "category": "Furniture",
+    "price": 15999,
+    "details": "Sheesham wood, hydraulic storage"
+  },
+  {
+    "name": "Remote Control Car",
+    "category": "Toys",
+    "price": 999,
+    "details": "Rechargeable, 360° rotation"
+  },
+  {
+    "name": "Barbie Fashion Doll Set",
+    "category": "Toys",
+    "price": 1299,
+    "details": "Includes 3 dolls and accessories"
+  },
+  {
+    "name": "Building Blocks Set",
+    "category": "Toys",
+    "price": 799,
+    "details": "120 pieces, colorful, educational"
+  },
+  {
+    "name": "Charcoal Face Wash 100ml",
+    "category": "Beauty",
+    "price": 199,
+    "details": "Oil control, suitable for men"
+  },
+  {
+    "name": "Matte Lipstick Pack of 3",
+    "category": "Beauty",
+    "price": 349,
+    "details": "Long-lasting, waterproof"
+  },
+  {
+    "name": "Herbal Shampoo 200ml",
+    "category": "Beauty",
+    "price": 249,
+    "details": "Aloe vera & hibiscus formula"
+  },
+  {
+    "name": "Yoga Mat with Carry Strap",
+    "category": "Sports",
+    "price": 899,
+    "details": "6mm thick, anti-slip surface"
+  },
+  {
+    "name": "Football Size 5",
+    "category": "Sports",
+    "price": 699,
+    "details": "FIFA standard, synthetic leather"
+  },
+  {
+    "name": "Dumbbell Set 10kg",
+    "category": "Sports",
+    "price": 1299,
+    "details": "Rubber coated, adjustable plates"
+  },
+  {
+    "name": "Car Vacuum Cleaner",
+    "category": "Automobile",
+    "price": 1099,
+    "details": "12V, high suction, portable"
+  },
+  {
+    "name": "LED Headlights Pair",
+    "category": "Automobile",
+    "price": 2499,
+    "details": "6000K white light, plug & play"
+  },
+  {
+    "name": "Car Air Freshener",
+    "category": "Automobile",
+    "price": 199,
+    "details": "Gel type, long-lasting fragrance"
+  },
+  {
+    "name": "Notebook Pack of 5",
+    "category": "Stationery",
+    "price": 299,
+    "details": "200 pages, ruled, A4 size"
+  },
+  {
+    "name": "Ball Pens Set of 10",
+    "category": "Stationery",
+    "price": 99,
+    "details": "Smooth writing, blue ink"
+  },
+  {
+    "name": "Highlighter Pen Set",
+    "category": "Stationery",
+    "price": 149,
+    "details": "5 colors, chisel tip"
+  }
+]
